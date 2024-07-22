@@ -1,2 +1,2 @@
-# BabylonWorld
+# BabylonMap
 Babylon + GIS
